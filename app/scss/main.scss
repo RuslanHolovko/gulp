@@ -1,0 +1,17 @@
+@import "app/libs/fotorama/fotorama";
+@import "app/libs/slick-carousel/slick/slick.scss";
+@import "app/libs/slick-carousel/slick/slick-theme.scss";
+
+
+
+body{
+	background-color: pink;
+	li{
+		list-style-type: none;
+		box-shadow: 3px #fff;
+	}
+
+	ul{
+		display: flex;
+	}
+}

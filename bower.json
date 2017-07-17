@@ -1,0 +1,9 @@
+{
+  "name": "ruslan",
+  "description": "hello",
+  "dependencies": {
+    "slick-carousel": "^1.6.0",
+    "jquery": "1.11.1",
+    "fotorama": "^4.6.4"
+  }
+}
